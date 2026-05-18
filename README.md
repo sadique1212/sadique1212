@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Sadique
-
+# 👋 Hi, I'm Sadique  
+![](https://komarev.com/ghpvc/?username=sadique1212&label=Profile%20Views&style=for-the-badge&color=0e75b6)
+---
 🎓 2nd year student at IIT Roorkee  
 🚀 Currently diving deep into blockchain and modern web development technologies  
 🤝 Open to collaborating on innovative Web3 projects and decentralized applications  
 🌐 Exploring the Web3 ecosystem and growing through learning, building, and community connections
 
 ---
-
 ## 🛠 Skills
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
